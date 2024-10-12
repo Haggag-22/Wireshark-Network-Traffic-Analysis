@@ -4,6 +4,7 @@
 ### Background
 `CatBOMBER` is a malware strain delivered via phishing emails, known for exfiltrating sensitive information and maintaining persistent access to compromised systems. Analyzing its network behavior is vital for improving detection and response strategies.
 
+You can access the PCAP file directly in this repository: [trickbot_malware.pcap](https://github.com/Haggag-22/Wireshark-Network-Traffic-Analysis/blob/main/trickbot_malware.pcap)
 ### Scope
 1. **Traffic Analysis:** Identify patterns and malicious activities within the captured traffic.
 2. **Malware Behavior:** Determine how `CatBOMBER` infiltrates systems and spreads.
