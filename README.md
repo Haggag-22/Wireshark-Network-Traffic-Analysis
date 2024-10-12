@@ -15,3 +15,9 @@ You can access the PCAP file directly in this repository: [trickbot_malware.pcap
 - **Tools Used:** `Wireshark` for PCAP analysis, `VirusTotal` for IOC assessment, `WHOIS lookup` for domain analysis, and `VirtualBox` for creating a controlled environment.
 - **Process:** Import the PCAP into `Wireshark` for detailed analysis, extract and analyze IOCs with `VirusTotal`, and document results and recommendations in a comprehensive report.
 
+## Blog Post
+
+I have written a comprehensive analysis of the **TrickBot malware**, detailing my findings from network traffic analysis. In this blog, I explore how TrickBot operates, identify malicious IP addresses, and document critical Indicators of Compromise (IOCs).
+
+**Read the full blog here:** [Detecting TrickBot Malware](https://medium.com/@omhg22/trickbot-malware-detection-an-in-depth-traffic-analysis-bb90dd41b40e)
+
