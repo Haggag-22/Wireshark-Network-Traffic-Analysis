@@ -1,9 +1,0 @@
-### Overview
-The `catbomber_pcap_file` contains a comprehensive dataset captured during a malware traffic analysis exercise. This file is crucial for studying the behavior and communication patterns of the CatBOMBER malware, particularly how it is delivered through phishing emails and its subsequent actions on the network.
-
-### Link
-You can access the PCAP file directly in this repository: [catbomber_pcap_file](./catbomber_pcap_file)
-
-### Key Points
-- **Type of Malware:** `CatBOMBER`
-- **Delivery Mechanism:** Phishing emails
